@@ -1,1 +1,2 @@
-hello-world: jack
+config-client:
+  hello-world: jack
