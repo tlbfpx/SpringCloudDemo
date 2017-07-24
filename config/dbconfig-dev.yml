@@ -6,4 +6,4 @@ spring:
         password: admin
         driver-class-name: com.mysql.jdbc.Driver
 
-hello-world: jack6
+hello-world: jack7
